@@ -1,0 +1,16 @@
+/* style sheet for C++ code produced by cp2html */
+.cppcode      {color: #215E21;
+              font-family: monospace
+             }
+.directive    {color: magenta;
+              font-style: italic 
+             }
+.quote        {color: blue;
+              font-style: italic 
+             }
+.comment      {color: red
+             }
+.highlighted  {background: yellow}
+.keyword      {color: black;
+              font-weight: bold 
+             }
